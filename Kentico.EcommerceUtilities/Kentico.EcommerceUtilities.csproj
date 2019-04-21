@@ -21,10 +21,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Kentico.Libraries" Version="12.0.0">
-      <PrivateAssets>all</PrivateAssets>
-    </PackageReference>
-    <PackageReference Include="Microsoft.SourceLink.Vsts.Git" Version="1.0.0-beta2-18618-05">
+    <PackageReference Include="Kentico.Libraries" Version="12.0.*" />
+    <PackageReference Include="Microsoft.SourceLink.GitHub" Version="1.0.0-beta2-18618-05">
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers</IncludeAssets>
     </PackageReference>
