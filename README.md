@@ -26,6 +26,6 @@ First install the . and .NET Framework 4.7.2 Developer Pack if you haven't alre
 
 ### .NET
 - [.NET Core CLI](https://docs.microsoft.com/en-us/dotnet/core/tools/?tabs=netcore2x)
-- [NuGet <PackageReference>](https://docs.microsoft.com/en-us/nuget/consume-packages/package-references-in-project-files)
+- [NuGet PackageReference](https://docs.microsoft.com/en-us/nuget/consume-packages/package-references-in-project-files)
 - [SourceLink (on Github)](https://github.com/dotnet/sourcelink)
 - [.NETCommon Project System (CPS)](https://github.com/dotnet/project-system)
